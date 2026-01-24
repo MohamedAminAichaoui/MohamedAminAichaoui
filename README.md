@@ -2,7 +2,7 @@
 About Me<br>I’m Mohamed Amine Aichaoui, a dedicated software engineering and information systems student with a deep passion for AI and data science. I’m particularly drawn to the potential of computer vision and machine learning to solve real-world problems, and I thrive on exploring innovative solutions that can make a tangible impact. My journey is fueled by a love for continuous learning and a commitment to mastering emerging technologies. I'm always excited to connect with like-minded individuals who share a curiosity for technology and a drive to create meaningful change.
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amine-aichaoui-377543259) 
 
 # 💻 Tech Stack:
