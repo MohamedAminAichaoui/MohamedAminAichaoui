@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Yassine+Daoud!;Computer+Engineering+Student+💻;Full+Stack+Developer+⚙️;Tech+Enthusiast+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+MohamedAmine+Aichaoui!;Software+Engineering+Student+;Computer+Vision+Developer+;AI+Enthusiast+🚀" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💻 Software Engineering Student | Deep Learning | Computer Vision</h3>
